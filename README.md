@@ -24,6 +24,9 @@ To get started with this project, follow the installation instructions and explo
 * Launch PowerBI Desktop and open the .pbix file located in the repository
 * Explore the dashboard and modify it according to your liking
 
+This is how the overall powerbi report will look like:
+![image](https://github.com/user-attachments/assets/eb77046a-814d-4d0b-9675-f9816a1fa3fa)
+
 
 
 > If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request
